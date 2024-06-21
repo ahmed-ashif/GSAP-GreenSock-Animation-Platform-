@@ -7,9 +7,9 @@
 <h2>Click on the link below to know more👇</h2>
 <br>
 https://gsap.com/
-<h1>What I have learnt</h1>
+<h1>What I have learnt ?</h1>
 <br>
-<h2>Part 1</h2>
+<h2>Part 1:- </h2>
 <br>
 <h2>In part 1, I have completed the topics like What is? </h2><br>
 - gsap.to <br>
