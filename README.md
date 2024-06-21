@@ -10,7 +10,7 @@ https://gsap.com/
 <h1>What I have learnt ?</h1>
 <br>
 <h2>Part 1:- </h2>
-<h2>In part 1, I have completed the topics like What is? </h2><br>
+<h2>In part 1, I have completed the topics like what is? </h2><br>
 - gsap.to <br>
 - gsap.from<br>
 - box animation<br>
