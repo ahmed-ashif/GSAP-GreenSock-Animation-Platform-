@@ -10,9 +10,12 @@
 <br>
 <h2>Part 1:- </h2>
 <h2>In part 1, I have completed the topics like what is? </h2><br>
+<b>
 - gsap.to <br>
 - gsap.from<br>
 - box animation<br>
 - text animation<br> 
 - repeat animation<br>
 - GSAP timelines
+</b>
+
